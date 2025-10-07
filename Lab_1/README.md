@@ -9,6 +9,8 @@
 1.Створив репозиторій та організував структуру папок.
 
 2.Написав першу програму на Python:
+
+1. В форматі .py
 - from datetime import datetime
 name = "Andrew"
 location = "Lviv" 
@@ -17,6 +19,10 @@ location = "Lviv"
 Andrew start programming at 2025-09-25 11:26:01.825128 Lviv is the best city!
 
 ![alt text](Знімок%20екрана%202025-09-25%20113735.png)
+
+2. В форматі .ipynd
+
+![alt text](<Знімок екрана 2025-09-25 113735.png>)
 
 
 4.Запитав у ChatGPT приклад першої програми.
