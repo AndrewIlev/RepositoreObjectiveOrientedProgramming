@@ -6,11 +6,12 @@
 
 ## 📌 Про мене
 Я студент, який вивчає програмування та веб-розробку.  
-Маю базові навички роботи з HTML, CSS, Git та GitHub.
+Маю базові навички роботи з Python, THTML, CSS, Git та GitHub.
 
 ---
 
 ## 🛠️ Навички
+- Python
 - HTML / CSS
 - Git та GitHub
 - Основи JavaScript
