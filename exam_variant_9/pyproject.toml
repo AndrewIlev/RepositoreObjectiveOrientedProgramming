@@ -1,0 +1,20 @@
+[project]
+name = "recipe-agent"
+version = "0.1.0"
+description = "AI рецептурний агент для екзамену"
+authors = [
+    {name = "Ілевич Андрій", email = "ailevych2023@itcollege.lviv.ua"}
+]
+requires-python = ">=3.13"
+dependencies = [
+    "google-genai>=1.72.0,<2.0.0",
+    "python-dotenv>=1.2.2,<2.0.0",
+    "google-adk>=2.1.0"
+]
+
+[tool.poetry]
+package-mode = false
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
