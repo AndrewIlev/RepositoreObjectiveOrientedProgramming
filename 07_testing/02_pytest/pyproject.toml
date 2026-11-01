@@ -1,0 +1,16 @@
+[tool.pytest.ini_options]
+testpaths = ["tests", "group_lab/tests"]
+pythonpath = [".", "group_lab/src"]
+addopts = "-ra"
+markers = [
+    "unit: isolated tests of a single unit of behavior",
+    "card_game: general CardGame example tests",
+    "game_initialization: tests for CardGame construction and attributes",
+    "card_attributes: tests for card attributes",
+    "card_combat: tests for card combat behavior",
+    "input_validation: tests for validating interaction arguments",
+    "input_handling: tests for handling user input",
+    "comparison: tests for comparing input arguments",
+    "uses_fixtures: tests that use pytest fixtures",
+    "parameterized: tests executed with multiple parameter sets",
+]
